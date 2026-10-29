@@ -22,7 +22,7 @@ The dashboard is designed to help users explore sales trends, compare product pe
 
 ## Dashboard Features
 
-The planned dashboard may include:
+The planned dashboard include:
 
 - Total sales revenue
 - Total orders
